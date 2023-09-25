@@ -1,0 +1,21 @@
+{
+  "name": "breaking-bad",
+  "displayName": "Breaking-Bad",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Breaking Bad",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Breaking Bad-color-theme.json"
+      }
+    ]
+  }
+}
